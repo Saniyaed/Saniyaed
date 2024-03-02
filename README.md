@@ -11,14 +11,6 @@
 
  </p>
  
- <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-<div align="center">
-<img src="https://i.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.webp" alt="img" align="center" />
- </div>
-
-
- <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
  
 <h3 align="center">🌟 Experienced software engineer with a passion for innovative business solutions. Strong problem-solving skills, cutting-edge technology expertise. Ready to contribute. 🔧📈🔬🚀</h3>
