@@ -19,15 +19,15 @@
 
 # 💫About Me :
 
-- 🔭 I’m currently working on Web Development and building my foundation as a Data Science & Machine Learning beginner. 
+🔭 I’m currently working on Web Development and building my foundation as a Data Science & Machine Learning beginner. 
 
-- 🌱 I’m continuously learning and improving my skills in SQL, Pandas, Data Analysis, and Machine Learning.
+🌱 I’m continuously learning and improving my skills in SQL, Pandas, Data Analysis, and Machine Learning.
 
-- 💡 I enjoy exploring data, solving real-world problems, and turning ideas into practical projects.
+💡 I enjoy exploring data, solving real-world problems, and turning ideas into practical projects.
   
-- 🚀 I’m passionate about growing step by step towards becoming a skilled Data Scientist while strengthening my development skills.
+🚀 I’m passionate about growing step by step towards becoming a skilled Data Scientist while strengthening my development skills.
 
-- 📚 Always open to learning new technologies, collaborating on projects, and improving through consistent practice.
+📚 Always open to learning new technologies, collaborating on projects, and improving through consistent practice.
 
 - 👨‍💻 All of my projects are available at [saniyaed.in](https://www.saniyaed.in)
 
