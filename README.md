@@ -43,14 +43,14 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aromalnambiar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-![](https://github-readme-streak-stats.herokuapp.com/?user=aromalnambiar&theme=radical&hide_border=false)<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aromalnambiar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 
 
 ![](https://github-trophies.vercel.app/?username=aromalnambiar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<img  height="220" width="150" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
